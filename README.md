@@ -5,3 +5,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/karen-lyseth-estrada-85a523220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karen-lyseth-estrada-85a523220" height="30" width="40" /></a>
 </p>
+git add banner.png
+git commit -m "Add portfolio banner"
+git push
